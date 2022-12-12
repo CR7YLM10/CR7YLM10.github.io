@@ -1,0 +1,26 @@
+h1{
+	color:white;
+	text-align:center;
+	border:20px;
+	background-color:blue;
+	padding:2%;
+
+}
+h2{
+	color:blue;
+	margin-left:10%;
+	font-size: 50px;
+	
+}
+.estilofondo{
+	background-color:rgb(211,255,248);
+}
+
+p{
+	margin-left: 10%;
+	margin-right: 10%;
+}
+.escudodepor{
+	position: absolute;
+	margin-bottom: 100%;
+}
